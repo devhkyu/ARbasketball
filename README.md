@@ -1,4 +1,9 @@
 # ARbasketball
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg))
+![vuforia](https://img.shields.io/badge/Vuforia-9.6.3%2B-red.svg)
+![unity](https://img.shields.io/badge/Unity-2018.4.30f1%2B-red.svg)
+![android](https://img.shields.io/badge/Android-5.1%2B-green.svg)
+<br><br>
 Augmented Reality Basket Ball.
 This is not a game. Just AR sample.
 
